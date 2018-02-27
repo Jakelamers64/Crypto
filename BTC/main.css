@@ -5,3 +5,9 @@
 .coinpot-widget-container{
     float: left;
 }
+
+.header{
+    font-size: 1.5em;
+    width: 100%;
+    background-color: #3ffcff;
+}
