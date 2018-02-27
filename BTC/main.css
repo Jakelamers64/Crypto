@@ -1,3 +1,7 @@
 .tradingview-widget-container{
     float: left;
 }
+
+.coinpot-widget-container{
+    float: right;
+}
